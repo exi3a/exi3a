@@ -1,14 +1,14 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ADD8E6&center=true&width=420&lines=Hi!+I+am+Kitty+(cxi1a);I+am+a+passionate+developer."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=ADD8E6&center=true&width=420&lines=Hi!+I+am+Kitty+(exi3a);I+am+a+passionate+developer."
     alt="Typing SVG"
   />
 
 ## About Me
 
-I'm Kitty also known as (exi3a/cxi1a), a cybersecurity focused developer specializing in Python and JavaScript. I build automation scripts, and API wrappers with an emphasis on reliability, efficiency, and real-world defensive use cases.
+I’m Kitty, a developer using Python, JavaScript, Next.js, and Node.js to build clean, reliable automation tools and APIs with strong performance and usability.
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,react,angular,proxmox,typescript,discord" alt="Tech Stack" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,react,nextjs,proxmox,typescript,angular" alt="Tech Stack" />
 </p>
 
 ## My Certificates
@@ -24,5 +24,5 @@ I'm Kitty also known as (exi3a/cxi1a), a cybersecurity focused developer special
 ## My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cxi1a&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=exi3a&theme=nord&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
